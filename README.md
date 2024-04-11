@@ -8,4 +8,4 @@
 	- Texas Cyber Range Lead Engineer
   - Cybersecurity Club VP
   - VICEROY Student
-  - RSA Conference 2023 Scholar 
+  - RSA Conference 2023 Security Scholar 
